@@ -1,0 +1,29 @@
+{
+  "storageApp": "Storage with Sembast",
+  "@storageApp": {
+    "description": "Application for storage in Flutter"
+  },
+  "appName" : "Storage in local using Sembast",
+  "settings" : "Settings",
+  "appcolor" : "App Main Color",
+  "fontsize" : "Choose a Font Size for the App",
+  "insert_password":"Insert new Password",
+  "edit_password":"Edit Password",
+  "password_list" : "Password List",
+  "description" : "Description",
+  "cancel" : "Cancel",
+  "save" : "Save",
+  "password":"Password",
+  "home":"Home",
+  "sembastFeatures":"Sembast Features",
+  "sembast" :"Sembast",
+  "various": "Various",
+  "example": "Example",
+  "pwdManagement":"Password Management",
+  "sqlite": "SQLite",
+  "sqlitedesc": "SQLite Database",
+  "subtitlesqlitewithsql":"CRUD with SQL",
+  "sqlitewithdbhelper":"SQLite using DBHelper",
+  "subtitlesqlitewithHelper":"CRUD con DBHelper",
+  "sqlitewithsql": "SQLite using SQL"
+}

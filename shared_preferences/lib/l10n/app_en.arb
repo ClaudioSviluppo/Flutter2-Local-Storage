@@ -1,0 +1,10 @@
+{
+  "storageApp": "Storage with Shared Preferences",
+  "@storageApp": {
+    "description": "Application for storage in Flutter"
+  },
+  "appName" : "Storage in local using Shared Preferences",
+  "settings" : "Settings",
+  "appcolor" : "App Main Color",
+  "fontsize" : "Choose a Font Size for the App"
+}

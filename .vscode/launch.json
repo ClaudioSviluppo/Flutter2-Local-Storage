@@ -1,0 +1,38 @@
+{
+    "version": "0.2.0",
+    "configurations" : [
+        {
+            "name": "Android Phone",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "emulator-5554"
+          },
+          {
+            "name": "Android Tablet",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "Device Name"
+          }, {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "chrome",
+            "program": "lib/main.dart",
+            "args": [
+                "--web-hostname=127.0.0.1",
+                "--web-port=8080"
+            ]
+        },
+        {
+          "name": "Launch Sembast Chrome",
+          "request": "launch",
+          "type": "dart",
+          "deviceId": "chrome",
+          "program": "sembast/lib/main.dart",
+          "args": [
+              "--web-hostname=127.0.0.1",
+              "--web-port=8080"
+          ]
+      }
+    ]
+}
